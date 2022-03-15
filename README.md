@@ -8,5 +8,5 @@
 
 ![](https://komarev.com/ghpvc/?username=KiVorobev&style=flat&color=blueviolet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivorobev&layout=compact)](https://github.com/kivorobev/github-readme-stats) | [![trophy](https://github-profile-trophy.vercel.app/?username=kivorobev)](https://github.com/kivorobev/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivorobev&layout=compact)](https://github.com/kivorobev/github-readme-stats) | ![trophy](https://github-profile-trophy.vercel.app/?username=kivorobev)
 --- | ---
