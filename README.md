@@ -8,5 +8,5 @@
 
 ![](https://komarev.com/ghpvc/?username=KiVorobev&style=flat&color=blueviolet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivorobev&layout=compact&theme=dark)](https://github.com/kivorobev/github-readme-stats) | ![](https://github-profile-trophy.vercel.app/?username=kivorobev&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivorobev&hide=css,HTML,Python,&layout=compact&theme=dark)](https://github.com/kivorobev/github-readme-stats) | ![](https://github-profile-trophy.vercel.app/?username=kivorobev&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 --- | ---
